@@ -379,7 +379,7 @@ This project follows Laravel conventions closely: controllers stay thin, busines
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=savvyagents/larasend&type=Date)](https://www.star-history.com/#savvyagents/larasend&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=savvyagents/larasend&type=Date)](https://star-history.dera.page/#savvyagents/larasend&Date)
 
 ## License
 
